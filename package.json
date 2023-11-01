@@ -21,7 +21,6 @@
     "@faker-js/faker": "^8.2.0",
     "@types/faker": "^5.5.9",
     "bulma": "^0.9.4",
-    "faker": "^5.5.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
