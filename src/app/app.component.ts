@@ -15,9 +15,7 @@ export class AppComponent {
   compareSentences(event: Event) {
     const inputElement = event.target as HTMLInputElement;
     const inputValue = inputElement.value;
-    console.log(inputValue);
     this.inputSentence = inputValue;
-    console.log(this.sentence);
     if (inputValue === this.sentence) {
       this.winningSentence = true;
     }
